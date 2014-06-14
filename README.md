@@ -9,7 +9,7 @@ WildflyDeployTest
 
 使用方法:
 1. 使用命令行到项目目录中
-2. mvn wildfly:run
+2. mvn clean wildfly:run
 3. 使用浏览器浏览
-http://localhost:8080/WildflyDeployTest
-http://localhost:8080/WildflyDeployTest/services
+http://localhost:8080/WildflyDeployTest-0.0.1
+http://localhost:8080/WildflyDeployTest-0.0.1//services
