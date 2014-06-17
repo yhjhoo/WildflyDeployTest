@@ -1,7 +1,7 @@
 WildflyDeployTest
 =================
 
-这个项目是用来测试tomcat webservice 项目部署到wildfly 上。
+这个项目是用来测试tomcat cxf webservice 项目部署到wildfly 上。
 
 前提条件
 1. jdk 1.7
